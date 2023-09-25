@@ -1,0 +1,9 @@
+{
+    "app_id": "github-contribution-tracker-wxeab",
+    "config_version": 20210101,
+    "name": "github-contribution-tracker",
+    "location": "IN-MB",
+    "provider_region": "gcp-asia-south1",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
